@@ -1,2 +1,2 @@
 # lab_meeting
-preactice
+practice
